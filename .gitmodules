@@ -7,3 +7,4 @@
 [submodule "lib/aave-address-book"]
 	path = lib/aave-address-book
 	url = https://github.com/ColligenceLabs/aave-address-book
+	branch = main
